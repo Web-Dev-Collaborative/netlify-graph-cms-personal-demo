@@ -1,0 +1,22 @@
+{
+  "name": "netlify-graph-cms-personal-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgoonz/netlify-graph-cms-personal-demo.git"
+  },
+  "author": "Bryan Guner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgoonz/netlify-graph-cms-personal-demo/issues"
+  },
+  "homepage": "https://github.com/bgoonz/netlify-graph-cms-personal-demo#readme",
+  "dependencies": {
+    "gatsby": "^4.9.3"
+  }
+}
